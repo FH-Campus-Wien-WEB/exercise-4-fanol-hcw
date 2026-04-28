@@ -1,84 +1,128 @@
 {
   "joe": {
-    "tt0399295": {
-      "imdbID": "tt0399295",
-      "Title": "Lord of War",
-      "Released": "2005-09-15",
-      "Runtime": 122,
+    "tt35222590": {
+      "imdbID": "tt35222590",
+      "Title": "Exit 8",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2RjMTZkZjktYjY5MC00Njk4LTlmZjgtZDRjMTBiMTY2MzdhXkEyXkFqcGc@._V1_QL75_UX380_CR0,14,380,562_.jpg",
+      "Plot": "A man becomes increasingly desperate when he realizes he is trapped in a subway station, needing to complete a mission to get out.",
+      "Released": "29 Aug 2025",
+      "Runtime": 95,
       "Genres": [
-        "Crime",
-        "Drama"
+        "Action",
+        "Adventure",
+        "Horror"
       ],
       "Directors": [
-        "Andrew Niccol"
-      ],
-      "Writers": [
-        "Andrew Niccol"
+        "Genki Kawamura"
       ],
       "Actors": [
-        "Nicolas Cage",
-        "Ethan Hawke",
-        "Jared Leto"
+        "Kazunari Ninomiya",
+        "Yamato Kochi",
+        "Naru Asanuma"
       ],
-      "Plot": "An arms dealer confronts the morality of his work as he is being chased by an INTERPOL Agent.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNThlY2NkYmMtNTFhNi00MzBiLWJmNzEtZjk5MzYwYWU2MjllXkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 62,
-      "imdbRating": 7.6
+      "Writers": [
+        "Kotake Create",
+        "Kentaro Hirase",
+        "Genki Kawamura"
+      ]
     },
-    "tt0167260": {
-      "imdbID": "tt0167260",
-      "Title": "The Lord of the Rings: The Return of the King",
-      "Released": "2003-12-16",
-      "Runtime": 201,
+    "tt1375666": {
+      "imdbID": "tt1375666",
+      "Title": "Inception",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO, but his tragic past may doom the project and his team to disaster.",
+      "Released": "16 Jul 2010",
+      "Runtime": 148,
       "Genres": [
+        "Action",
         "Adventure",
-        "Drama",
-        "Fantasy"
+        "Sci-Fi"
       ],
       "Directors": [
-        "Peter Jackson"
-      ],
-      "Writers": [
-        "J.R.R. Tolkien",
-        "Fran Walsh",
-        "Philippa Boyens"
+        "Christopher Nolan"
       ],
       "Actors": [
-        "Elijah Wood",
-        "Viggo Mortensen",
-        "Ian McKellen"
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Elliot Page"
       ],
-      "Plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 94,
-      "imdbRating": 9
+      "Writers": [
+        "Christopher Nolan"
+      ]
     },
-    "tt0057261": {
-      "imdbID": "tt0057261",
-      "Title": "Lord of the Flies",
-      "Released": "1963-08-12",
-      "Runtime": 92,
+    "tt6723592": {
+      "imdbID": "tt6723592",
+      "Title": "Tenet",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTIzNDIxMzktMzlkMi00MmUyLWFmMjQtZDgwMjBmOGJmNTI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Armed with only the word \"Tenet,\" and fighting for the survival of the entire world, CIA operative, The Protagonist, journeys through a twilight world of international espionage on a global mission that unfolds beyond real time.",
+      "Released": "03 Sep 2020",
+      "Runtime": 150,
       "Genres": [
-        "Adventure",
-        "Drama",
+        "Action",
+        "Sci-Fi",
         "Thriller"
       ],
       "Directors": [
-        "Peter Brook"
-      ],
-      "Writers": [
-        "William Golding",
-        "Peter Brook"
+        "Christopher Nolan"
       ],
       "Actors": [
-        "James Aubrey",
-        "Tom Chapin",
-        "Hugh Edwards"
+        "John David Washington",
+        "Robert Pattinson",
+        "Elizabeth Debicki"
       ],
-      "Plot": "Schoolboys marooned on a Pacific island create their own savage civilization.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2RiOTM0ZDgtNDRlMi00MDMzLWI1NDYtY2NjZDM4YTkwNWVlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 67,
-      "imdbRating": 6.9
+      "Writers": [
+        "Christopher Nolan"
+      ]
+    },
+    "tt0209144": {
+      "imdbID": "tt0209144",
+      "Title": "Memento",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ3Y2Q4NjktN2E4Ny00Y2Q2LTliZDUtZTNiNjRhY2I0NGIyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Plot": "A former insurance investigator who now suffers from anterograde amnesia uses notes and tattoos to hunt down his wife's murderer.",
+      "Released": "25 May 2001",
+      "Runtime": 113,
+      "Genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "Directors": [
+        "Christopher Nolan"
+      ],
+      "Actors": [
+        "Guy Pearce",
+        "Carrie-Anne Moss",
+        "Joe Pantoliano"
+      ],
+      "Writers": [
+        "Christopher Nolan",
+        "Jonathan Nolan"
+      ]
+    },
+    "tt0816692": {
+      "imdbID": "tt0816692",
+      "Title": "Interstellar",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Plot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+      "Released": "07 Nov 2014",
+      "Runtime": 169,
+      "Genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "Directors": [
+        "Christopher Nolan"
+      ],
+      "Actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ],
+      "Writers": [
+        "Jonathan Nolan",
+        "Christopher Nolan"
+      ]
     }
   },
   "jane": {
